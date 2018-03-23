@@ -1,0 +1,8 @@
+﻿  main.cpp
+..\main.cpp(104): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  vector3D.cpp
+  Generating code
+  All 57 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Lab5 Ray Tracing.vcxproj -> C:\Users\assas\OneDrive - National University of Singapore\CS3241\Assignments\Lab 5 Ray Tracing\Lab 5 Ray Tracing\Lab5 Ray Tracing\Release\Lab5 Ray Tracing.exe
+  Lab5 Ray Tracing.vcxproj -> C:\Users\assas\OneDrive - National University of Singapore\CS3241\Assignments\Lab 5 Ray Tracing\Lab 5 Ray Tracing\Lab5 Ray Tracing\Release\Lab5 Ray Tracing.pdb (Full PDB)

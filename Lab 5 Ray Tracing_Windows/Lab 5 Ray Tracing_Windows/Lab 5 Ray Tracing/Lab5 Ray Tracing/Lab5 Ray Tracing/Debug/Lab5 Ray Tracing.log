@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\assas\downloads\lab 5 ray tracing_windows\lab 5 ray tracing_windows\lab 5 ray tracing\lab5 ray tracing\main.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\assas\downloads\lab 5 ray tracing_windows\lab 5 ray tracing_windows\lab 5 ray tracing\lab5 ray tracing\main.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\assas\Downloads\Lab 5 Ray Tracing_Windows\Lab 5 Ray Tracing_Windows\Lab 5 Ray Tracing\Lab5 Ray Tracing\Debug\Lab5 Ray Tracing.exe not found or not built by the last incremental link; performing full link
+  Lab5 Ray Tracing.vcxproj -> C:\Users\assas\Downloads\Lab 5 Ray Tracing_Windows\Lab 5 Ray Tracing_Windows\Lab 5 Ray Tracing\Lab5 Ray Tracing\Debug\Lab5 Ray Tracing.exe
+  Lab5 Ray Tracing.vcxproj -> C:\Users\assas\Downloads\Lab 5 Ray Tracing_Windows\Lab 5 Ray Tracing_Windows\Lab 5 Ray Tracing\Lab5 Ray Tracing\Debug\Lab5 Ray Tracing.pdb (Partial PDB)
